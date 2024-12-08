@@ -1,0 +1,26 @@
+{
+    "$schema": "./ic_build/generated/schema.json",
+    "domains": [
+        {
+            "name": "is-cool.me",
+            "css": {
+                "background": "linear-gradient(130deg,rgba(180, 58, 58, 1) 0%,rgba(236, 29, 253, 1) 50%,rgba(117, 69, 252, 1) 100%)"
+            },
+            "description": [
+                "is a subdomain service that allows anyone to be catchy with their own websites!"
+            ]
+        },
+        {
+            "name": "is-app.tech",
+            "css": {
+                "background": "linear-gradient(130deg,rgba(62, 58, 180, 1) 0%,rgba(29, 174, 253, 1) 50%,rgba(69, 205, 252, 1) 100%);"
+            },
+            "description": [
+                "is a subdomain for developers that wants to show their technology-related websites"
+            ]
+        }
+    ],
+    "selectedDomain": "is-cool.me",
+    "mainDomain":"is-cool.me",
+    "registrationLink":"https://github.com/is-cool-me/register"
+}
